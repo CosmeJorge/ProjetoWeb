@@ -1,0 +1,25 @@
+*{
+    background-color: rgba(75, 75, 242, 0.904);
+}
+ul{
+    position: absolute;
+    left: 14%;
+    top: 2%;
+}
+ul h1{
+    display: none;
+    align:center;
+}
+li{
+    background-color:chocolate;
+    display: inline-block;
+    padding: 10px;
+    color: white;
+    font-size: 30px;
+    margin: 120 60 ;
+    
+    
+}
+#especial01{
+    color:rgba(75, 75, 242, 0.5)
+}
